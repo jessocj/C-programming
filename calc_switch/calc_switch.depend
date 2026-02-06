@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761578062 source:e:\desktop\c programming\qis\calc_switch\main.c
+	<stdio.h>
+	<stdlib.h>
+

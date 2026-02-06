@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1768321359 source:e:\desktop\c programming\qis\file_handling\main.c
+	<stdio.h>
+	<stdlib.h>
+

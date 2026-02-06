@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761575303 source:e:\desktop\c programming\qis\even_switch\odd\main.c
+	<stdio.h>
+	<stdlib.h>
+

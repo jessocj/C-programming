@@ -1,0 +1,53 @@
+/*
+if(exp)
+{
+    statement
+}
+-------------------------
+if else
+--------
+
+if(exp)
+{
+    true part
+}
+else
+{
+    false part
+}
+---------------
+else if
+--------
+if(exp)
+{
+    statement
+}
+else if(exp)
+{
+    statement
+}
+else if(exp)
+{
+    statement
+}
+else
+{
+    false
+}
+--------------------
+nested if
+------------
+if(num>=1&& num<=12)
+{
+    if(exp)
+    {
+    }
+    else
+    {
+    }
+
+}
+else
+{
+    printf("");
+}

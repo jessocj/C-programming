@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764261120 source:e:\desktop\c programming\qis\c_neso_academy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
